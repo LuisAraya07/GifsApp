@@ -1,5 +1,6 @@
 # GifsApp
 
+Aplicación del curso de angular, utilizando HttpClient, LocalStorage, módulos, componentes y servicio.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
 
 ## Development server
